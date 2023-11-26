@@ -1,0 +1,32 @@
+{
+    cmdlines = {
+        "xmake ",
+        "xmake ",
+        "xmake run",
+        "xmake project -k vs",
+        "xmake f --check -vD",
+        "xmake project -k vs",
+        "xmake project -k vs",
+        "xmake ",
+        "xmake project -k vs",
+        "xmake ",
+        "xmake ",
+        "xmake ",
+        "xmake project -k vs",
+        "xmake project -k vs",
+        "xmake project -k vs",
+        "xmake ",
+        "xmake project -k vs",
+        "xmake project -k vsxmake",
+        "xmake project -k vsxmake",
+        "xmake ",
+        "xmake project -k vsxmake",
+        "xmake project -k vsxmake",
+        "xmake ",
+        "xmake project -k vsxmake",
+        "xmake ",
+        "xmake project -k vsmake",
+        "xmake project -k vsxmake",
+        "xmake "
+    }
+}

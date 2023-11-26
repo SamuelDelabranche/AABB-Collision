@@ -1,0 +1,45 @@
+{
+    files = {
+        [[build\.objs\AABB_Collision\windows\x64\release\src\Engine.cpp.obj]],
+        [[build\.objs\AABB_Collision\windows\x64\release\src\main.cpp.obj]]
+    },
+    values = {
+        [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe]],
+        {
+            "-nologo",
+            "-dynamicbase",
+            "-nxcompat",
+            "-machine:x64",
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\s\sfml\2.6.0\ec1bfcb987bf4337b6818db71c3d7d2e\lib]],
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\f\freetype\2.13.1\4b38630cb5424a48b390ae0205b71a8a\lib]],
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\z\zlib\v1.3\bccfcefde78c424c9153cc8d3007dd63\lib]],
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\l\libflac\1.4.3\f7b7cbe18c1e4c57a040dee2ae9ea089\lib]],
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\l\libvorbis\1.3.7\efc0df09dbea49d0b67e1f82c3d5ca21\lib]],
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\l\libogg\v1.3.4\4e8a50f24d1f47288264c1c71acb4588\lib]],
+            [[-libpath:C:\Users\samue\AppData\Local\.xmake\packages\o\openal-soft\1.23.1\5fce2691e1314b50b3e02f6d76c33e11\lib]],
+            "sfml-graphics-s.lib",
+            "sfml-window-s.lib",
+            "sfml-audio-s.lib",
+            "sfml-network-s.lib",
+            "sfml-system-s.lib",
+            "sfml-main.lib",
+            "freetype.lib",
+            "zlib.lib",
+            "FLAC.lib",
+            "vorbisenc.lib",
+            "vorbisfile.lib",
+            "vorbis.lib",
+            "ogg.lib",
+            "OpenAL32.lib",
+            "opengl32.lib",
+            "gdi32.lib",
+            "advapi32.lib",
+            "ws2_32.lib",
+            "winmm.lib",
+            "ole32.lib",
+            "shell32.lib",
+            "user32.lib",
+            "kernel32.lib"
+        }
+    }
+}
