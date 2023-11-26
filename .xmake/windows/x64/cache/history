@@ -27,6 +27,21 @@
         "xmake ",
         "xmake project -k vsmake",
         "xmake project -k vsxmake",
-        "xmake "
+        "xmake ",
+        "xmake ",
+        "xmake ",
+        "xmake run",
+        "xmake run",
+        "xmake project -k vs",
+        "xmake project -k vsxmake",
+        "xmake run",
+        "xmake -r",
+        "xmake run",
+        "xmake ",
+        "xmake ",
+        "xmake ",
+        "xmake r",
+        "xmake ",
+        "xmake r"
     }
 }

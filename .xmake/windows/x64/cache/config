@@ -1,12 +1,12 @@
 {
     options = {
-        mode = "release",
-        plat = "windows",
+        buildir = "build",
         arch = "x64",
-        buildir = "build"
+        mode = "release",
+        plat = "windows"
     },
     mtimes = {
-        ["xmake.lua"] = 1701035904
+        ["xmake.lua"] = 1701037585
     },
     recheck = false
 }

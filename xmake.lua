@@ -6,6 +6,8 @@ target("AABB_Collision")
     add_files("src/*.cpp")
     add_headerfiles("header/*.hpp")
 
+    add_ldflags("/subsystem:window", {force = true})
+
 --
 -- If you want to known more usage about xmake, please see https://xmake.io
 --

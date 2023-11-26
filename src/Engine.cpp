@@ -19,7 +19,7 @@ Engine::Engine(): m_event(), m_tabPressed(false), m_dt(0)
 	m_shapes[3].setPosition({ GV::WINDOWSIZE.x - step * 2, GV::WINDOWSIZE.y - step * 2 });
 
 	m_choice = carre1;
-	m_window.setFramerateLimit(10);
+	m_window.setFramerateLimit(250);
 
 }
 
